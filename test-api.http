@@ -1,0 +1,16 @@
+# Test GET Request
+# GET http://localhost:3001/
+
+# Test GET All Comments
+GET http://localhost:3001/comments
+
+# # Test POST Request
+# POST http://localhost:3001/comments
+# Content-Type: application/json
+
+# {
+#   "firstName": "John",
+#   "lastName": "Doe",
+#   "email": "JohnDoe@gmail.com",
+#   "comment": "This is a test comment"
+# }
